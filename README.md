@@ -230,12 +230,7 @@ Repository Link:
 
 Live Application:
 
-**Add your Render deployment URL here after deployment**
-
-Example:
-
-```
-https://your-app-name.onrender.com
+**https://heart-disease-prediction-n6pf.onrender.com**
 ```
 
 ---
